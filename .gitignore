@@ -1,0 +1,5 @@
+# Scratch & Temporary Development Artifacts
+scratch/
+*.tmp
+.DS_Store
+Thumbs.db
